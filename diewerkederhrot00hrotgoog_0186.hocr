@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diewerkederhrot00hrotgoog_0186.png"; bbox 0 0 3144 4888; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 265 1801 1155 2154">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 265 1801 1155 2154">
+     <span class='ocr_line' id='line_1_1' title="bbox 265 1801 1128 1966; baseline -0.006 -31"><span class='ocrx_word' id='word_1_1' title='bbox 265 1805 507 1936; x_wconf 82' lang='lat' dir='ltr'><strong>Passio</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 560 1805 766 1933; x_wconf 82' lang='lat' dir='ltr'><strong>sancti</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 811 1801 1128 1966; x_wconf 81' lang='lat' dir='ltr'><strong>Dionysii,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 400 1988 1155 2154; baseline -0.005 -35"><span class='ocrx_word' id='word_1_4' title='bbox 400 1989 640 2153; x_wconf 78' lang='lat' dir='ltr'><strong>egregii</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 679 1988 1000 2154; x_wconf 74' lang='lat' dir='ltr'><strong>martyris,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1150 2135 1155 2142; x_wconf 81' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1576 4888">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1576 4888">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1576 4888; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1576 4888; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
